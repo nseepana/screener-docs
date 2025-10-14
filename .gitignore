@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+npm-debug.log*
+
+# Build output
+dist/
+build/
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Environment files
+.env
+.env.*
+
+# Misc
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Docsify cache/output (if any in the future)
+.cache/
+docs-dist/
+docs/
+
+# System Files
+Thumbs.db
+
+# Static site output
+out/
+# Ignore all markdown except for main docs
+!.md
+!.nojekyll
+# But do ignore backup/extra markdown
+*_backup.md
+*~
+
