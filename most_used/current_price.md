@@ -1,11 +1,10 @@
-# Current Price
-
+# Current Price [CMP]
 
 The last closing price of the stock - the final price at which the stock traded during the most recent trading session.
 
 ## Formula
 ```text
-Current Price = Last traded price at market close
+Current Price [CMP] = Last traded price at market close
 ```
 
 ## Components
@@ -54,11 +53,20 @@ If a stock's last trading session shows:
 - 52-Week High/Low
 - Moving Averages
 
-## Best Practices
-- Compare with historical averages
-- Consider market conditions
-- Analyze volume patterns
-- Use in conjunction with fundamental analysis
+## Key Terms
+- **Current Price (CMP)**: The last traded price of a stock at the close of the trading session (9:15 to 15:30); represents the consensus value for a share at the end of the day.
+- **Last Traded Price (LTP)**: The price at which the most recent transaction was executed during a trading session.
+- **Closing Price**: Usually synonymous with current price; the final price at which a stock is traded for the day.
+- **Market Order**: An order to buy or sell a security immediately at the best available price.
+- **Bid/Ask Spread**: The difference between the highest price a buyer is willing to pay (bid) and the lowest price a seller is willing to accept (ask); not reflected in current price.
+- **52-Week High/Low**: The highest and lowest price a stock has traded at during the previous 52 weeks.
+- **Moving Average (MA)**: The average of closing prices over a specific number of days; used to identify trends.
+- **Volatility**: The degree of variation in a trading price series over time; high volatility reflects larger price swings.
+- **Fair Value/Intrinsic Value**: An estimation of a stock’s actual worth, which may differ from its current price.
+- **Liquidity**: The ease with which a stock can be bought or sold without affecting its price.
+- **Market Sentiment**: The overall attitude of investors toward a particular security reflected in price movement.
+
+
 
 ---
 *Last updated: Wed Oct 15 00:43:52 IST 2025*

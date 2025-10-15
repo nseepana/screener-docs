@@ -1,6 +1,6 @@
-# Change in Promoter Holding
+# Change in Promoter Holding [Change in Prom Hold]
 
-
+## Definition
 Change in Promoter Holding measures the percentage point change in promoter shareholding compared to the previous quarter. It indicates promoter confidence and potential insider sentiment.
 
 ## Formula
@@ -52,11 +52,15 @@ If a company shows:
 - Insider Trading
 - Share Buybacks
 
-## Best Practices
-- Monitor trends over time
-- Consider reasons for changes
-- Compare with industry peers
-- Analyze in context of business performance
+## Key Terms
+- **Promoter Holding**: The percentage of a company's shares held by its promoters (founders, management, and their related entities).
+- **Change in Promoter Holding**: The difference in promoter shareholding between two reporting periods, usually quarters.
+- **Promoters**: Individuals, groups, or entities responsible for the company’s formation and are often major shareholders.
+- **Percentage Points (%)**: The unit of measurement used to denote changes in shareholding, distinct from percent change.
+- **Quarterly Filing**: Regulatory requirement for companies to disclose shareholding patterns at the end of each quarter.
+- **Share Buyback**: When a company repurchases its own shares, which may affect promoter holding percentages.
+- **Insider Trading**: Buying or selling of a company's stock by individuals with access to non-public information, including promoters.
+- **Institutional Holding**: The stake held by institutions like mutual funds, banks, and insurance companies, contrasted with promoter holding.
 
 ---
 *Last updated: Wed Oct 15 00:43:52 IST 2025*

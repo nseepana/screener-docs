@@ -1,4 +1,4 @@
-# Debt to Equity
+# Debt to Equity [Debt / Eq]
 
 
 Debt-to-Equity ratio measures the relative proportion of shareholders' equity and debt used to finance a company's assets. It indicates the company's financial leverage and risk level.

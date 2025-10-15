@@ -1,4 +1,4 @@
-# Debt
+# Debt [Debt]
 
 
 Total Debt represents the sum of all borrowings and financial obligations of a company as per the latest annual financial statements. It includes both short-term and long-term debt.

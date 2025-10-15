@@ -1,4 +1,4 @@
-# Current Ratio
+# Current Ratio [Current ratio]
 
 
 Current Ratio is a liquidity ratio that measures a company's ability to pay short-term obligations with its current assets. It indicates the company's short-term financial health and liquidity position.
@@ -53,11 +53,19 @@ If a company has:
 - Working Capital
 - Operating Cash Flow
 
-## Best Practices
-- Compare with industry averages
-- Analyze trends over time
-- Consider seasonal variations
-- Use with other liquidity ratios
+## Key Terms
+- **Current Ratio**: A financial liquidity ratio that measures a company's ability to pay its short-term liabilities with its short-term assets.
+- **Current Assets**: Assets expected to be converted into cash, sold, or consumed within one year (e.g., cash, accounts receivable, inventory, short-term investments).
+- **Current Liabilities**: Obligations due to be settled within one year (e.g., accounts payable, short-term borrowings, accrued expenses).
+- **Liquidity**: The ease with which assets can be converted into cash to meet short-term obligations.
+- **Solvency**: The ability of a company to meet its long-term debts and financial obligations, contrasted with liquidity (short-term).
+- **Working Capital**: The difference between current assets and current liabilities; measures short-term financial health.
+- **Acid-Test (Quick) Ratio**: A more stringent measure of liquidity that excludes inventory from current assets.
+- **Inventory**: Goods available for sale and raw materials used to produce goods; a part of current assets.
+- **Accounts Receivable**: Money owed to the company by customers for sales made on credit; part of current assets.
+- **Accounts Payable**: Money the company owes to suppliers for goods and services purchased on credit; part of current liabilities.
+
+
 
 ---
 *Last updated: Wed Oct 15 00:43:52 IST 2025*
