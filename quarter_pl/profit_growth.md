@@ -1,4 +1,4 @@
-# Profit growth
+# Profit growth [Profit growth]
 TTM Profit growth: ie profit of last 4 quarters vs preceding 4 quarters
 
 ### Formula

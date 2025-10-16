@@ -1,4 +1,4 @@
-# Profit growth 5Years
+# Profit growth 5Years [Profit Var 5Yrs]
 Compounded profit growth (CAGR) over last 5 years. Profit is profit after tax excluding exceptional items.
 
 ### Formula

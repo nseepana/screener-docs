@@ -1,4 +1,4 @@
-# YOY Quarterly Sales Growth
+# YOY Quarterly Sales Growth [Qtr Sales Var]
 
 
 Year-on-Year (YOY) Quarterly Sales Growth measures the percentage change in quarterly sales compared to the same quarter in the previous year. It eliminates seasonal variations and shows the underlying business growth trend.

@@ -1,4 +1,4 @@
-# Inventory turnover ratio 10Years back
+# Inventory turnover ratio 10Years back [Inven TO 10Yr]
 Inventory turnover ratio 10 years back.
 
 ### Formula

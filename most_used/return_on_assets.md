@@ -1,4 +1,4 @@
-# Return on Assets
+# Return on Assets [ROA 12M]
 
 
 Return on Assets (ROA) measures how efficiently a company uses its assets to generate profit. It indicates the company's ability to generate earnings from its asset base.

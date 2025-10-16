@@ -1,4 +1,4 @@
-# Earning Power
+# Earning Power [BEP]
 Basic Earning Power: EBIT / Total Assets
 
 ### Formula

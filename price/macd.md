@@ -1,4 +1,4 @@
-# MACD
+# MACD [MACD]
 Last value of MACD line
 
 ### Formula

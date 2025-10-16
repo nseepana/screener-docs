@@ -1,4 +1,4 @@
-# Earnings yield
+# Earnings yield [Earnings Yield]
 Earnings yield formula as given by JG i.e. Trailing EBIT / Enterprise Value
 
 ### Formula

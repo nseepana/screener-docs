@@ -1,4 +1,4 @@
-# Earnings Yield
+# Earnings Yield [Earnings Yield]
 
 
 Earnings Yield represents the earnings generated per unit of enterprise value. It's calculated as trailing EBIT divided by enterprise value, providing an inverse perspective to valuation ratios.

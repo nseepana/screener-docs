@@ -1,4 +1,4 @@
-# Return over 1month
+# Return over 1month [1mth return]
 Price change over last 1 month in percent
 
 ### Formula

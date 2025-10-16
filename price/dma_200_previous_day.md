@@ -1,4 +1,4 @@
-# DMA 200 previous day
+# DMA 200 previous day [200 DMA prev.]
 200 days exponential moving average day before yesterday
 
 ### Formula

@@ -1,4 +1,4 @@
-# Price to book value
+# Price to book value [CMP / BV]
 Price to book value of the stock.
 
 ### Formula

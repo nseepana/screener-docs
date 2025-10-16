@@ -1,4 +1,4 @@
-# Net profit
+# Net profit [NP 12M]
 Net profits of the the company during last 12 months.
 
 ### Formula

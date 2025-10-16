@@ -1,4 +1,4 @@
-# Market Capitalization
+# Market Capitalization [Mar Cap]
 Market Capitalization of the company at current market price.
 
 ### Formula

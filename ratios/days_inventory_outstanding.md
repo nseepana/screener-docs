@@ -1,4 +1,4 @@
-# Days Inventory Outstanding
+# Days Inventory Outstanding [Inventory Days]
 Annual Inventory / Annual Material Cost * 365
 
 ### Formula

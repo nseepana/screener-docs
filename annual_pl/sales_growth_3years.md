@@ -1,4 +1,4 @@
-# Sales growth 3Years
+# Sales growth 3Years [Sales Var 3Yrs]
 Compounded Sales Growth (CAGR) over last 3 years.
 
 ### Formula

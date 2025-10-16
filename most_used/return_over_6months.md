@@ -1,4 +1,4 @@
-# Return Over 6 Months
+# Return Over 6 Months [6mth return]
 
 
 Return Over 6 Months measures the percentage change in stock price over the last 6 months. It indicates medium-term price performance and provides a more stable view of stock performance compared to shorter timeframes.

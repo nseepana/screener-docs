@@ -1,4 +1,4 @@
-# Return on Equity
+# Return on Equity [ROE]
 
 
 Return on Equity (ROE) measures a company's profitability by revealing how much profit a company generates with the money shareholders have invested. It indicates how efficiently management is using shareholders' equity to generate profits.

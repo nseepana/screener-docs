@@ -1,4 +1,4 @@
-# Average EBIT 5Year
+# Average EBIT 5Year [Avg EBIT 5Yrs]
 Average EBIT of last 5 annual results.
 
 ### Formula

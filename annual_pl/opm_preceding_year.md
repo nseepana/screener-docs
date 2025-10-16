@@ -1,4 +1,4 @@
-# OPM preceding year
+# OPM preceding year [OPM Prev Ann]
 Operating profit margin as per preceding annual results.
 
 ### Formula

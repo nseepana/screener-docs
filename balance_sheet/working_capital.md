@@ -1,4 +1,4 @@
-# Working capital
+# Working capital [Working Cap]
 Working capital (Current assets - current liabilities - short term borrowings) from latest balance sheet.
 
 ### Formula

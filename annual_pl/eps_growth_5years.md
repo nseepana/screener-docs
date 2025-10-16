@@ -1,4 +1,4 @@
-# EPS growth 5Years
+# EPS growth 5Years [EPS Var 5Yrs]
 Compounded Growth in EPS (CAGR) over last 5 years.
 
 ### Formula

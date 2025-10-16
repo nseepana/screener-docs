@@ -1,4 +1,4 @@
-# Price to Free Cash Flow
+# Price to Free Cash Flow [CMP / FCF]
 
 
 Price-to-Free Cash Flow (P/FCF) ratio compares a company's current stock price to its free cash flow per share. It indicates how much investors are willing to pay for each rupee of free cash flow generated.

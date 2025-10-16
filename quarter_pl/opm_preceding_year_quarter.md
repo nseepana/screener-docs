@@ -1,4 +1,4 @@
-# OPM preceding year quarter
+# OPM preceding year quarter [OPM PY Qtr]
 Operating profit margin as per previous year's corresponding latest quarter.
 
 ### Formula

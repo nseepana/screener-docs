@@ -1,4 +1,4 @@
-# Sales
+# Sales [Sales]
 Trailing 12 Months Sales
 
 ### Formula

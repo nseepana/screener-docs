@@ -1,4 +1,4 @@
-# OPM last year
+# OPM last year [OPM Ann]
 Operating profit margin last year.
 
 ### Formula

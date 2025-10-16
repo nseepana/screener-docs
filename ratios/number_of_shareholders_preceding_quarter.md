@@ -1,4 +1,4 @@
-# Number of Shareholders preceding quarter
+# Number of Shareholders preceding quarter [No. of Share Holders Prev Qtr]
 Number of shareholders as per previous quarterly filing
 
 ### Formula

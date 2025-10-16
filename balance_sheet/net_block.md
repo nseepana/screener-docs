@@ -1,4 +1,4 @@
-# Net block
+# Net block [Net Block]
 Net block excluding CWIP from latest balance sheet.
 
 ### Formula

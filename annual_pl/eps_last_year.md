@@ -1,4 +1,4 @@
-# EPS last year
+# EPS last year [EPS Ann]
 Earnings per share last financial year.
 
 ### Formula

@@ -1,4 +1,4 @@
-# Working capital 5Years back
+# Working capital 5Years back [Work Cap 5Yr]
 Working capital (Current assets - current liabilities - short term borrowings) from 5 years old balance sheet.
 
 ### Formula

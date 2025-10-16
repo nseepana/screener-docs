@@ -1,4 +1,4 @@
-# Equity Capital preceding year quarter
+# Equity Capital preceding year quarter [Eq Cap PY Qtr]
 Equity Capital as per previous year's corresponding latest quarter.
 
 ### Formula

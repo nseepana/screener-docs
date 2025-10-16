@@ -1,4 +1,4 @@
-# Operating Profit Margin
+# Operating Profit Margin [OPM]
 
 
 Operating Profit Margin (OPM) measures the percentage of revenue that remains as operating profit after deducting all operating expenses. It indicates the company's operational efficiency and profitability.

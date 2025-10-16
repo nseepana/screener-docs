@@ -1,4 +1,4 @@
-# EBIT preceding year
+# EBIT preceding year [EBIT Prev Ann]
 Earnings before Interest and Tax as per preceding annual results.
 
 ### Formula

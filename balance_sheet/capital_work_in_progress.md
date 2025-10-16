@@ -1,4 +1,4 @@
-# Capital work in progress
+# Capital work in progress [CWIP]
 Capital work-in-progress from latest balance sheet.
 
 ### Formula

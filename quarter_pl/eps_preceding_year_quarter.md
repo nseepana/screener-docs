@@ -1,4 +1,4 @@
-# EPS preceding year quarter
+# EPS preceding year quarter [EPS PY Qtr]
 Earnings Per Share as per previous year's corresponding latest quarter.
 
 ### Formula

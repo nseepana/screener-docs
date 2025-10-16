@@ -1,4 +1,4 @@
-# Working Capital Days
+# Working Capital Days [WC Days]
 (Working Capital - Cash) / Sales * 365
 
 ### Formula

@@ -1,4 +1,4 @@
-# Return over 5years
+# Return over 5years [5Yrs return]
 Price CAGR over last 5 years. Percentage change compounded annually.
 
 ### Formula

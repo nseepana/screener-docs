@@ -1,4 +1,4 @@
-# Interest preceding year quarter
+# Interest preceding year quarter [Interest PY Qtr]
 Interest as per previous year's corresponding latest quarter.
 
 ### Formula

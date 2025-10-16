@@ -1,4 +1,4 @@
-# Expected quarterly sales growth
+# Expected quarterly sales growth [Exp Qtr Sales Var]
 Expected Year-on-year sales growth for the upcoming quarter based on trends of last 8 quarters.
 
 ### Formula

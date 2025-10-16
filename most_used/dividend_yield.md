@@ -1,4 +1,4 @@
-# Dividend Yield
+# Dividend Yield [Div Yld]
 
 
 Dividend Yield represents the annual dividend payment as a percentage of the current stock price. It indicates the return on investment from dividends alone, excluding special dividends.

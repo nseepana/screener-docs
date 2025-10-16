@@ -1,4 +1,4 @@
-# EBIT latest quarter
+# EBIT latest quarter [EBIT Qtr]
 Earnings before Interest and Tax as per latest quarterly results.
 
 ### Formula

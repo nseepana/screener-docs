@@ -1,4 +1,4 @@
-# EBIDT preceding quarter
+# EBIDT preceding quarter [EBIDT Prev Qtr]
 Earnings before Interest, Depreciation & Tax as per preceding quarterly results.
 
 ### Formula

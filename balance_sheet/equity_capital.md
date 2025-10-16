@@ -1,4 +1,4 @@
-# Equity capital
+# Equity capital [Eq Cap]
 Equity share capital from latest balance sheet.
 
 ### Formula

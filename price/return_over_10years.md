@@ -1,4 +1,4 @@
-# Return over 10years
+# Return over 10years [10Yrs return]
 Price CAGR over last 10 years. Percentage change compounded annually.
 
 ### Formula

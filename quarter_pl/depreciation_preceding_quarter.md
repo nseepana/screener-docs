@@ -1,4 +1,4 @@
-# Depreciation preceding quarter
+# Depreciation preceding quarter [Dep Prev Qtr]
 Depreciation as per preceding quarterly results.
 
 ### Formula

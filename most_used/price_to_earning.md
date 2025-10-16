@@ -1,4 +1,4 @@
-# Price to Earnings
+# Price to Earnings [P/E]
 
 
 Price-to-Earnings (P/E) ratio compares a company's current market price per share to its earnings per share. It indicates how much investors are willing to pay for each rupee of earnings.

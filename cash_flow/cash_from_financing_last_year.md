@@ -1,4 +1,4 @@
-# Cash from financing last year
+# Cash from financing last year [CF Financing]
 Cash flow from financing activities as per latest annual result
 
 ### Formula

@@ -1,4 +1,4 @@
-# Inventory
+# Inventory [Inventory]
 Value of inventory as per latest annual report
 
 ### Formula

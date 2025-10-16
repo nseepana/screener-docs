@@ -1,4 +1,4 @@
-# Public holding
+# Public holding [Public Hold]
 Public shareholding excluding FII, DII and Government holding as per latest shareholding filing
 
 ### Formula

@@ -1,4 +1,4 @@
-# Net profit preceding 12months
+# Net profit preceding 12months [Profit Prev 12M]
 Net profit during 12 months preceding latest quarter
 
 ### Formula

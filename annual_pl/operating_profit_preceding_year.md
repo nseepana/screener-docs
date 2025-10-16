@@ -1,4 +1,4 @@
-# Operating profit preceding year
+# Operating profit preceding year [OP Prev Ann]
 Operating Profit as per preceding annual results.
 
 ### Formula

@@ -1,4 +1,4 @@
-# Return over 1week
+# Return over 1week [1wk return]
 Price change over last 1 week in percent
 
 ### Formula

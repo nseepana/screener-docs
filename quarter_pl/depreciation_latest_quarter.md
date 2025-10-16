@@ -1,4 +1,4 @@
-# Depreciation latest quarter
+# Depreciation latest quarter [Dep Qtr]
 Depreciation as per latest quarterly results.
 
 ### Formula

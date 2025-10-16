@@ -1,4 +1,4 @@
-# Financial leverage
+# Financial leverage [Leverage]
 Average Total Assets as per balance sheet / Net worth
 
 ### Formula

@@ -1,4 +1,4 @@
-# Face value
+# Face value [Face value]
 Face value or nominal value of the company's equity shares.
 
 ### Formula

@@ -1,4 +1,4 @@
-# Market value of quoted investments
+# Market value of quoted investments [MV Quoted Inv]
 Market value of quoted investments from latest balance sheet.
 
 ### Formula

@@ -1,4 +1,4 @@
-# Average Return on Equity 3 Years [ROE 3Yrs]
+# Average Return on Equity 3 Years [ROE 3Yr]
 
 ## Definition
 The average return on equity (ROE) over the past three financial years, weighted by each year's contribution. This metric shows how effectively a company has used shareholders' equity to generate profits during this period.

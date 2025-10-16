@@ -1,4 +1,4 @@
-# Sales preceding year quarter
+# Sales preceding year quarter [Sales PY Qtr]
 Sales as per previous year's corresponding latest quarter.
 
 ### Formula

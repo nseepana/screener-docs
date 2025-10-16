@@ -1,4 +1,4 @@
-# Book value 10years back
+# Book value 10years back [BV 10yrs back]
 Book value per share 10years back
         Book value = (Capital + Reserves) / Number of eq. shares 10 years back
 

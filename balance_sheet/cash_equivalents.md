@@ -1,4 +1,4 @@
-# Cash Equivalents
+# Cash Equivalents [Cash]
 Cash equivalents as per the latest balance sheet
 
 ### Formula

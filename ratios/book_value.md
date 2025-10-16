@@ -1,4 +1,4 @@
-# Book value
+# Book value [B.V.]
 Book value per share: (Equity Capital + Reserves) / Number of shares
 
 ### Formula

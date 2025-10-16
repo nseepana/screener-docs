@@ -1,4 +1,4 @@
-# Pledged percentage
+# Pledged percentage [Pledged]
 Percentage of promoter holding pledged.
 
 ### Formula

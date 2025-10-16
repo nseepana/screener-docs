@@ -1,4 +1,4 @@
-# Return over 1day
+# Return over 1day [1day return]
 Price change vs previous day in percent
 
 ### Formula

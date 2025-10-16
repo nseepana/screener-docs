@@ -1,4 +1,4 @@
-# Sales Growth 3 Years
+# Sales Growth 3 Years [Sales Var 3Yrs]
 
 
 Sales Growth 3 Years represents the compounded annual growth rate (CAGR) of sales over the last 3 years. It shows the average annual growth rate of revenue during this period.

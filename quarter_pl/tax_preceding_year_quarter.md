@@ -1,4 +1,4 @@
-# Tax preceding year quarter
+# Tax preceding year quarter [Tax PY Qtr]
 Tax expense as per previous year's corresponding latest quarter.
 
 ### Formula

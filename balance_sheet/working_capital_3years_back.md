@@ -1,4 +1,4 @@
-# Working capital 3Years back
+# Working capital 3Years back [Work Cap 3Yr]
 Working capital (Current assets - current liabilities - short term borrowings) from 3 years old balance sheet.
 
 ### Formula

@@ -1,4 +1,4 @@
-# Cash Conversion Cycle
+# Cash Conversion Cycle [Cash Cycle]
 How quickly the company turns its inventory into sales, and its sales into cash, which is then used to pay its suppliers for goods and services
 
 ### Formula

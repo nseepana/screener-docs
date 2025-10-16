@@ -1,4 +1,4 @@
-# Enterprise Value
+# Enterprise Value [EV]
 
 
 Enterprise Value (EV) represents the total value of a company, including both equity and debt, minus cash and cash equivalents. It provides a more comprehensive valuation than market capitalization alone.

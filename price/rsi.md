@@ -1,4 +1,4 @@
-# RSI
+# RSI [RSI]
 Relative Strength Index of 14 days
 
 ### Formula

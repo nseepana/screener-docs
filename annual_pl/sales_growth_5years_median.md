@@ -1,4 +1,4 @@
-# Sales growth 5years median
+# Sales growth 5years median [Med Sales Gwth 5Yrs]
 Median sales growth growth of last 5 years
 
 ### Formula

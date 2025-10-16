@@ -1,4 +1,4 @@
-# Return over 6months
+# Return over 6months [6mth return]
 Price change over last 6 months in percent
 
 ### Formula

@@ -1,4 +1,4 @@
-# Net block preceding year
+# Net block preceding year [Net Block PY]
 Net block of fixed assets preceding year from balance sheet.
 
 ### Formula

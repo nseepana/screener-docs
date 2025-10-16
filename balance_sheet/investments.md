@@ -1,4 +1,4 @@
-# Investments
+# Investments [Investments]
 Investments from latest balance sheet.
 
 ### Formula

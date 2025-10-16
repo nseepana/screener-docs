@@ -1,4 +1,4 @@
-# Free cash flow 7years
+# Free cash flow 7years [Free Cash Flow 7Yrs]
 Sum of (Cash Flow from operating activities - Fixed assets purchased + Fixed assets sold) over last 7 years
 
 ### Formula

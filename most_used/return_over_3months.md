@@ -1,4 +1,4 @@
-# Return Over 3 Months
+# Return Over 3 Months [3mth return]
 
 
 Return Over 3 Months measures the percentage change in stock price over the last 3 months. It indicates short-term price performance and market sentiment towards the stock.

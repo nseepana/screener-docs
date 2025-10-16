@@ -1,4 +1,4 @@
-# High price all time
+# High price all time [All Time High]
 All time high price since 2005
 
 ### Formula

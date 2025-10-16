@@ -1,4 +1,4 @@
-# Operating cash flow 7years
+# Operating cash flow 7years [CF Opr 7Yrs]
 Sum of cash from operations over last 7 years.
 
 ### Formula

@@ -1,4 +1,4 @@
-# Free cash flow 3years
+# Free cash flow 3years [Free Cash Flow 3Yrs]
 Sum of (Cash Flow from operating activities - Fixed assets purchased + Fixed assets sold) over last 3 years
 
 ### Formula

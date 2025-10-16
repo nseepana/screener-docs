@@ -1,4 +1,4 @@
-# Other income preceding year quarter
+# Other income preceding year quarter [Other Inc PY Qtr]
 Other Income as per previous year's corresponding latest quarter.
 
 ### Formula

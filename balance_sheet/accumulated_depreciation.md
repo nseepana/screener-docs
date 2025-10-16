@@ -1,4 +1,4 @@
-# Accumulated depreciation
+# Accumulated depreciation [Accum Dep]
 Accumulated Depreciation from latest balance sheet.
 
 ### Formula

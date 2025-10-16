@@ -1,4 +1,4 @@
-# Book value preceding year
+# Book value preceding year [B.V. Prev Ann]
 Book value per share: (Capital + Reserves) / Number of shares
 
 ### Formula

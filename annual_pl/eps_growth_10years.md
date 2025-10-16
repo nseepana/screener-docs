@@ -1,4 +1,4 @@
-# EPS growth 10Years
+# EPS growth 10Years [EPS Var 10Yrs]
 Compounded Growth in EPS (CAGR) over last 10 years.
 
 ### Formula

@@ -1,4 +1,4 @@
-# Cash from operations preceding year
+# Cash from operations preceding year [CF Operations PY]
 Cash flow from operating activities from preceding year's cash-flow.
 
 ### Formula

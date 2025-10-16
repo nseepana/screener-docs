@@ -1,4 +1,4 @@
-# Cash from financing preceding year
+# Cash from financing preceding year [CF Financing PY]
 Cash flow from financing activities from preceding year's cash-flow.
 
 ### Formula

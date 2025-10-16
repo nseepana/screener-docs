@@ -1,4 +1,4 @@
-# Price to Quarterly Earning
+# Price to Quarterly Earning [Qtr P/E]
 Price upon (latest quarterly earning x 4) 
  i.e. PE based only on latest quarter earning
 

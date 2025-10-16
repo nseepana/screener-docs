@@ -1,4 +1,4 @@
-# Sales growth 7Years
+# Sales growth 7Years [Sales Var 7Yrs]
 Compounded Sales Growth (CAGR) over last 7 years.
 
 ### Formula

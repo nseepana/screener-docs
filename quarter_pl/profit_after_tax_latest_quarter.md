@@ -1,4 +1,4 @@
-# Profit After Tax Latest Quarter
+# Profit After Tax Latest Quarter [PAT Qtr]
 
 
 Profit After Tax Latest Quarter represents the net profit earned by a company after deducting all expenses, interest, and taxes from total revenue during the most recent quarterly reporting period. It excludes extraordinary items to show core business profitability.

@@ -1,4 +1,4 @@
-# Average EBIT 10Year
+# Average EBIT 10Year [Avg EBIT 10Yrs]
 Average EBIT of 10 annual results.
 
 ### Formula

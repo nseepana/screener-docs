@@ -1,4 +1,4 @@
-# Operating profit 3quarters back
+# Operating profit 3quarters back [OP 3Qtr Bk]
 Operating profit 3 quarters back (corresponding previous quarter of upcoming quarter).
 
 ### Formula

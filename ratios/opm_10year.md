@@ -1,4 +1,4 @@
-# OPM 10Year
+# OPM 10Year [10Yr OPM]
 Average operating profit margin during last 10 years.
 
 ### Formula

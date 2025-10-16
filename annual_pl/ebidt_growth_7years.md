@@ -1,4 +1,4 @@
-# EBIDT growth 7Years
+# EBIDT growth 7Years [EBIDT Var 7Yrs]
 Compounded Growth in EBIDT (CAGR) over last 7 years.
 
 ### Formula

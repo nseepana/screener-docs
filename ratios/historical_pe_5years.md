@@ -1,4 +1,4 @@
-# Historical PE 5Years
+# Historical PE 5Years [5Yrs PE]
 Median price to earning ratio during last 5 years.
 
 ### Formula

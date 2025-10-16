@@ -1,4 +1,4 @@
-# Lease liabilities
+# Lease liabilities [Lease Liability]
 Amount of lease liabilities (part of borrowings) as per latest balance sheet
 
 ### Formula

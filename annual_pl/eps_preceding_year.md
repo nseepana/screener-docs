@@ -1,4 +1,4 @@
-# EPS preceding year
+# EPS preceding year [EPS Prev Ann]
 Earnings per share as per preceding financial year.
 
 ### Formula

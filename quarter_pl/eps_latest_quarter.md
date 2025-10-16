@@ -1,4 +1,4 @@
-# EPS latest quarter
+# EPS latest quarter [EPS Qtr]
 Earning per share as per latest quarter.
 
 ### Formula

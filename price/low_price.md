@@ -1,4 +1,4 @@
-# Low price
+# Low price [52w Low]
 52 Weeks low price of the company's stock.
 
 ### Formula

@@ -1,4 +1,4 @@
-# Debt to equity
+# Debt to equity [Debt / Eq]
 Total debt of the company upon funds for equity share holders.
 
 ### Formula

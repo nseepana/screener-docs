@@ -1,4 +1,4 @@
-# Debtor days
+# Debtor days [Debtor days]
 Average trade receivables by sales per day as per the latest annual report.
 
 ### Formula

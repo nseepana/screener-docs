@@ -1,4 +1,4 @@
-# MACD Signal
+# MACD Signal [MACD Signal]
 Last value of MACD Signal Line
 
 ### Formula

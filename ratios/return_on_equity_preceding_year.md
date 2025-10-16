@@ -1,4 +1,4 @@
-# Return on equity preceding year
+# Return on equity preceding year [ROE Prev Ann]
 Return on average equity capital during preceding year.
 
 ### Formula

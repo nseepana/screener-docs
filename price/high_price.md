@@ -1,4 +1,4 @@
-# High price
+# High price [52w High]
 52 Weeks high price of the company's stock.
 
 ### Formula

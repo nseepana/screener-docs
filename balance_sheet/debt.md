@@ -1,4 +1,4 @@
-# Debt
+# Debt [Debt]
 Total borrowings as per latest annual numbers
 
 ### Formula

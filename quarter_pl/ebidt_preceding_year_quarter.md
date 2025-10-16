@@ -1,4 +1,4 @@
-# EBIDT preceding year quarter
+# EBIDT preceding year quarter [EBIDT PY Qtr]
 Earnings before Interest, Depreciation & Tax as per previous year's corresponding latest quarter.
 
 ### Formula

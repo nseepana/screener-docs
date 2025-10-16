@@ -1,4 +1,4 @@
-# Operating profit preceding year quarter
+# Operating profit preceding year quarter [OP PY Qtr]
 Operating Profit as per previous year's corresponding latest quarter.
 
 ### Formula

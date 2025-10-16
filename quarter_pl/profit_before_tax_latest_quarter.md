@@ -1,4 +1,4 @@
-# Profit before tax latest quarter
+# Profit before tax latest quarter [PBT Qtr]
 Profit before Tax as per latest quarterly results.
 
 ### Formula

@@ -1,4 +1,4 @@
-# Days Receivable Outstanding
+# Days Receivable Outstanding [Days Receivable]
 Number of days after which the payment is usually realized by the debtors
 
 ### Formula

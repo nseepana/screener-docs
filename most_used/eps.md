@@ -1,4 +1,4 @@
-# Earnings Per Share
+# Earnings Per Share [EPS 12M]
 
 
 Earnings Per Share (EPS) represents the portion of a company's profit allocated to each outstanding share of common stock. It's calculated by dividing net profit by the number of outstanding shares.

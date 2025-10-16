@@ -1,4 +1,4 @@
-# Net profit 3quarters back
+# Net profit 3quarters back [NP 3Qtr Bk]
 Net profit 3 quarters back (corresponding previous quarter of upcoming quarter).
 
 ### Formula

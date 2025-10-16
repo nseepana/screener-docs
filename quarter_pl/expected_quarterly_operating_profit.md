@@ -1,4 +1,4 @@
-# Expected quarterly operating profit
+# Expected quarterly operating profit [Exp Qtr OP]
 Expected operating profit for upcoming quarter based on expected quarterly sales.
 
 ### Formula

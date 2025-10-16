@@ -1,4 +1,4 @@
-# Sales growth 5Years
+# Sales growth 5Years [Sales Var 5Yrs]
 Compounded Sales Growth (CAGR) over last 5 years.
 
 ### Formula

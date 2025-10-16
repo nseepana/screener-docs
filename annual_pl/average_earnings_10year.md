@@ -1,4 +1,4 @@
-# Average Earnings 10Year
+# Average Earnings 10Year [Avg PAT 10Yrs]
 Average profit during last 10 annual results.
 
 ### Formula

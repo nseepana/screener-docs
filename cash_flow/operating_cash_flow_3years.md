@@ -1,4 +1,4 @@
-# Operating cash flow 3years
+# Operating cash flow 3years [CF Opr 3Yrs]
 Sum of cash from operations over last 3 years.
 
 ### Formula

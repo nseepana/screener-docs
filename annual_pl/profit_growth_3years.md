@@ -1,4 +1,4 @@
-# Profit growth 3Years
+# Profit growth 3Years [Profit Var 3Yrs]
 Compounded profit growth (CAGR) over last 3 years. Profit is profit after tax excluding exceptional items.
 
 ### Formula

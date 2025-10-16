@@ -1,4 +1,4 @@
-# Current assets
+# Current assets [Cur Assets]
 Current assets from latest balance sheet.
 
 ### Formula

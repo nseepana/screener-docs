@@ -1,4 +1,4 @@
-# EBIT preceding quarter
+# EBIT preceding quarter [EBIT Prev Qtr]
 Earnings before Interest and Tax as per preceding quarterly results.
 
 ### Formula

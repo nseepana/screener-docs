@@ -1,4 +1,4 @@
-# Sales growth
+# Sales growth [Sales growth]
 TTM Sales growth: ie sales of last 4 quarters vs preceding 4 quarters.
 
 ### Formula

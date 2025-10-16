@@ -1,4 +1,4 @@
-# Volume 1month average
+# Volume 1month average [Avg Vol 1Mth]
 Average quantity traded over last 1 month across all exchanges.
 
 ### Formula

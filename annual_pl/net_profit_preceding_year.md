@@ -1,4 +1,4 @@
-# Net Profit preceding year
+# Net Profit preceding year [NP Prev Ann]
 Net Profit as per preceding annual results.
 
 ### Formula

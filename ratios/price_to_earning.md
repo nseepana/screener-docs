@@ -1,4 +1,4 @@
-# Price to Earning
+# Price to Earning [P/E]
 Current Market Price to trailing 12 month's earnings (TTM PE). Earnings exclude extraordinary items.
 
 ### Formula

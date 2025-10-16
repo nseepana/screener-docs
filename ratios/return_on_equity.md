@@ -1,4 +1,4 @@
-# Return on equity
+# Return on equity [ROE]
 ROE: Return on average equity measures a company's profitability by revealing how much profit a company generates with the money shareholders have invested.
 
 ### Formula

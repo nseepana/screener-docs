@@ -1,4 +1,4 @@
-# Price to Book Value
+# Price to Book Value [CMP / BV]
 
 
 Price-to-Book Value (P/B) ratio compares a company's current market price per share to its book value per share. It indicates whether a stock is trading at a premium or discount to its book value.

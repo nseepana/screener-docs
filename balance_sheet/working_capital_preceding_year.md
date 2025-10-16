@@ -1,4 +1,4 @@
-# Working capital preceding year
+# Working capital preceding year [Work Cap PY]
 Working capital (Current assets - current liabilities - short term borrowings) from preceding balance sheet.
 
 ### Formula

@@ -1,4 +1,4 @@
-# Number of equity shares 10years back
+# Number of equity shares 10years back [No. Eq. Shares 10 Yrs]
 Adjusted number of equity shares 10 years back. Shares are adjusted for bonuses and splits.
 
 ### Formula

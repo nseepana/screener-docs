@@ -1,4 +1,4 @@
-# Advance from Customers
+# Advance from Customers [Adv Cust]
 Advance from customers in current liabilities
 
 ### Formula

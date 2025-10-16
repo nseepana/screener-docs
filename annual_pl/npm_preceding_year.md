@@ -1,4 +1,4 @@
-# NPM preceding year
+# NPM preceding year [NPM Prev Ann]
 Net profit margin as per preceding annual results.
 
 ### Formula

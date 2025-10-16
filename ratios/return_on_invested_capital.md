@@ -1,4 +1,4 @@
-# Return on invested capital
+# Return on invested capital [ROIC]
 NOPAT upon invested capital (net block + working capital) ie. return from core business
 
 ### Formula

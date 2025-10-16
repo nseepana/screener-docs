@@ -1,4 +1,4 @@
-# OPM 5Year
+# OPM 5Year [5Yr OPM]
 Average operating profit margin during last 5 years.
 
 ### Formula

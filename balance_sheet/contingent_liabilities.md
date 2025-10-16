@@ -1,4 +1,4 @@
-# Contingent liabilities
+# Contingent liabilities [Cont Liab]
 Contingent liabilities from latest balance sheet.
 
 ### Formula

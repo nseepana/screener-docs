@@ -1,4 +1,4 @@
-# Depreciation
+# Depreciation [Dep 12M]
 Sum of Depreciation in last 4 quarters
 
 ### Formula

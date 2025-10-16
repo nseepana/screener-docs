@@ -1,4 +1,4 @@
-# OPM latest quarter
+# OPM latest quarter [OPM Qtr]
 Operating profit margin as per latest quarterly results.
 
 ### Formula

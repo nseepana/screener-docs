@@ -1,4 +1,4 @@
-# Operating profit
+# Operating profit [OP 12M]
 Sum of operating profit in last 4 quarters
 
 ### Formula

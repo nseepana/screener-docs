@@ -1,4 +1,4 @@
-# Net Profit preceding quarter
+# Net Profit preceding quarter [NP Prev Qtr]
 Net Profit as per preceding quarterly results.
 
 ### Formula

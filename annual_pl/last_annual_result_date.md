@@ -1,4 +1,4 @@
-# Last annual result date
+# Last annual result date [Ann Date]
 Date of last annual result in YYYYMM format
 
 ### Formula

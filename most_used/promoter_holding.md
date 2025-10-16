@@ -1,4 +1,4 @@
-# Promoter Holding
+# Promoter Holding [Prom. Hold.]
 
 
 Promoter Holding represents the percentage of shares held by the company's promoters (founders, controlling shareholders) as per the latest shareholding filing. It indicates the level of promoter confidence and control.

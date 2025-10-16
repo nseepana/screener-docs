@@ -1,4 +1,4 @@
-# Sales 2quarters back
+# Sales 2quarters back [Sales 2Qtr Bk]
 Sales during 2 quarters back (preceding-preceding quarter).
 
 ### Formula

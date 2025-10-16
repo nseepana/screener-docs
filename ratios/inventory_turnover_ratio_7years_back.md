@@ -1,4 +1,4 @@
-# Inventory turnover ratio 7Years back
+# Inventory turnover ratio 7Years back [Inven TO 7Yr]
 Inventory turnover ratio 7 years back.
 
 ### Formula

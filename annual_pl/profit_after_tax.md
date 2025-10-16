@@ -1,4 +1,4 @@
-# Profit after tax
+# Profit after tax [PAT 12M]
 Profit after tax excluding extra-ordinary items during last 12 months.
 
 ### Formula

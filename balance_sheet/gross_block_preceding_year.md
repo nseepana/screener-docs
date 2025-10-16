@@ -1,4 +1,4 @@
-# Gross block preceding year
+# Gross block preceding year [Gross Block PY]
 Gross fixed assets block preceding year.
 
 ### Formula

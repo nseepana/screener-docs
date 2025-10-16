@@ -1,4 +1,4 @@
-# Return over 3years
+# Return over 3years [3Yrs return]
 Price CAGR over last 3 years. Percentage change compounded annually.
 
 ### Formula

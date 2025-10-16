@@ -1,4 +1,4 @@
-# EBIT preceding year quarter
+# EBIT preceding year quarter [EBIT PY Qtr]
 Earnings before Interest and Tax as per previous year's corresponding latest quarter.
 
 ### Formula

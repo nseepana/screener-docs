@@ -1,4 +1,4 @@
-# Interest preceding quarter
+# Interest preceding quarter [Interest Prev Qtr]
 Interest as per preceding quarterly results.
 
 ### Formula

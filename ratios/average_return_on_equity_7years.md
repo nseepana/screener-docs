@@ -1,4 +1,4 @@
-# Average return on equity 7Years
+# Average return on equity 7Years [ROE 7Yr]
 Weighted average of return on equity over last 7 years.
 
 ### Formula

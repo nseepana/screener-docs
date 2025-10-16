@@ -1,4 +1,4 @@
-# MACD Previous Day
+# MACD Previous Day [MACD Prev]
 MACD value of previous day
 
 ### Formula

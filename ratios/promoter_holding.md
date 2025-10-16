@@ -1,4 +1,4 @@
-# Promoter holding
+# Promoter holding [Prom. Hold.]
 Promoter holding as per latest shareholding filing
 
 ### Formula

@@ -1,4 +1,4 @@
-# Depreciation preceding year quarter
+# Depreciation preceding year quarter [Dep PY Qtr]
 Depreciation as per previous year's corresponding latest quarter.
 
 ### Formula

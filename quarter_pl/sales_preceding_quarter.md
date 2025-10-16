@@ -1,4 +1,4 @@
-# Sales preceding quarter
+# Sales preceding quarter [Sales Prev Qtr]
 Sales as per preceding quarterly results.
 
 ### Formula

@@ -1,4 +1,4 @@
-# Current liabilities
+# Current liabilities [Cur Liab]
 Current liabilities as reported in the latest balance sheet.
 
 ### Formula

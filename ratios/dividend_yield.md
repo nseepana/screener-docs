@@ -1,4 +1,4 @@
-# Dividend yield
+# Dividend yield [Div Yld]
 Dividend yield excluding special dividends
 
 ### Formula

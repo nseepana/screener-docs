@@ -1,4 +1,4 @@
-# Operating profit preceding quarter
+# Operating profit preceding quarter [OP Prev Qtr]
 Operating Profit as per preceding quarterly results.
 
 ### Formula

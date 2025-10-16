@@ -1,4 +1,4 @@
-# DMA 50
+# DMA 50 [50 DMA]
 50 days exponential moving average
 
 ### Formula

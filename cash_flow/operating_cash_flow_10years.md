@@ -1,4 +1,4 @@
-# Operating cash flow 10years
+# Operating cash flow 10years [CF Opr 10Yrs]
 Sum of cash from operations over last 10 years.
 
 ### Formula

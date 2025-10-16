@@ -1,4 +1,4 @@
-# Profit after tax preceding year quarter
+# Profit after tax preceding year quarter [PAT PY Qtr]
 Profit after Tax excluding extra-ordinary items as per previous year's corresponding latest quarter.
 
 ### Formula

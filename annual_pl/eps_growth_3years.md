@@ -1,4 +1,4 @@
-# EPS growth 3Years
+# EPS growth 3Years [EPS Var 3Yrs]
 Compounded Growth in EPS (CAGR) over last 3 years.
 
 ### Formula

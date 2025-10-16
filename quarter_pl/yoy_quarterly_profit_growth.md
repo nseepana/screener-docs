@@ -1,4 +1,4 @@
-# YOY Quarterly Profit Growth
+# YOY Quarterly Profit Growth [Qtr Profit Var]
 
 
 Year-on-Year (YOY) Quarterly Profit Growth measures the percentage change in quarterly profit after tax compared to the same quarter in the previous year. It eliminates seasonal variations and shows the underlying profitability growth trend.

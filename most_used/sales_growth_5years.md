@@ -1,4 +1,4 @@
-# Sales Growth 5 Years
+# Sales Growth 5 Years [Sales Var 5Yrs]
 
 
 Sales Growth 5 Years represents the compounded annual growth rate (CAGR) of sales over the last 5 years. It shows the average annual growth rate of revenue during this extended period.

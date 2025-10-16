@@ -1,4 +1,4 @@
-# Interest
+# Interest [Interest 12M]
 Sum of interest in last 4 quarters
 
 ### Formula

@@ -1,4 +1,4 @@
-# GPM latest quarter
+# GPM latest quarter [GPM Qtr]
 Gross profit margin as per latest quarterly results.
 
 ### Formula

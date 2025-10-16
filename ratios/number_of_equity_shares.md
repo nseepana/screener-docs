@@ -1,4 +1,4 @@
-# Number of equity shares
+# Number of equity shares [No. Eq. Shares]
 Number of equity shares as per latest filing
 
 ### Formula

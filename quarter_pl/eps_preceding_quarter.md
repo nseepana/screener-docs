@@ -1,4 +1,4 @@
-# EPS preceding quarter
+# EPS preceding quarter [EPS Prev Qtr]
 Earning per share as per preceding quarterly results.
 
 ### Formula

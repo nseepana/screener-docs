@@ -1,4 +1,4 @@
-# Volume 1year average
+# Volume 1year average [Avg Vol 1Yr]
 Average quantity traded over last 1 year across all exchanges.
 
 ### Formula

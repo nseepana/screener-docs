@@ -1,4 +1,4 @@
-# Cash end of preceding year
+# Cash end of preceding year [Cash End PY]
 Cash at end of the year from preceding year's balance sheet.
 
 ### Formula

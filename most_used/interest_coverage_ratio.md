@@ -1,4 +1,4 @@
-# Interest Coverage Ratio
+# Interest Coverage Ratio [Int Coverage]
 
 
 Interest Coverage Ratio measures a company's ability to pay interest on its outstanding debt using its operating earnings. It indicates the company's financial strength and debt servicing capability.

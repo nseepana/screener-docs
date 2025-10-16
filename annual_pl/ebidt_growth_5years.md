@@ -1,4 +1,4 @@
-# EBIDT growth 5Years
+# EBIDT growth 5Years [EBIDT Var 5Yrs]
 Compounded Growth in EBIDT (CAGR) over last 5 years.
 
 ### Formula

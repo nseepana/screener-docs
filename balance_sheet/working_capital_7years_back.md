@@ -1,4 +1,4 @@
-# Working capital 7Years back
+# Working capital 7Years back [Work Cap 7Yr]
 Working capital (Current assets - current liabilities - short term borrowings) from 7 years old balance sheet.
 
 ### Formula

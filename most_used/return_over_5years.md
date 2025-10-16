@@ -1,4 +1,4 @@
-# Return Over 5 Years
+# Return Over 5 Years [5Yrs return]
 
 
 Return Over 5 Years measures the compounded annual growth rate (CAGR) of stock price over the last 5 years. It indicates long-term price performance and provides a stable view of stock appreciation over an extended period.

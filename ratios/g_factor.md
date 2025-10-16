@@ -1,4 +1,4 @@
-# G Factor
+# G Factor [G Factor]
 Score out of 10. It is based on companies growth and quality of earnings. A score of 7 and above is very healthy.
 
 ### Formula

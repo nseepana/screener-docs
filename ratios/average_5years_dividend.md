@@ -1,4 +1,4 @@
-# Average 5years dividend
+# Average 5years dividend [Div 5Yrs]
 Average dividend per year paid in last 5 years.
 
 ### Formula

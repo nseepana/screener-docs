@@ -1,4 +1,4 @@
-# Trade Payables
+# Trade Payables [Payables]
 Amount of trade payables (sundry creditors) as per latest annual report.
 
 ### Formula

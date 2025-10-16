@@ -1,4 +1,4 @@
-# MACD Signal Previous Day
+# MACD Signal Previous Day [MACD Signal Prev]
 Value of MACD signal line for previous day
 
 ### Formula

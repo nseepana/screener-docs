@@ -1,4 +1,4 @@
-# Other income latest quarter
+# Other income latest quarter [Other Inc Qtr]
 Other Income as per latest quarterly results.
 
 ### Formula

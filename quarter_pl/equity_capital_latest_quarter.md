@@ -1,4 +1,4 @@
-# Equity Capital latest quarter
+# Equity Capital latest quarter [Eq Cap Qtr]
 Equity Capital as per latest quarterly results.
 
 ### Formula

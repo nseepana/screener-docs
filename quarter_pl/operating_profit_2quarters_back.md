@@ -1,4 +1,4 @@
-# Operating profit 2quarters back
+# Operating profit 2quarters back [OP 2Qtr Bk]
 Operating profit 2 quarters back (preceding-preceding quarter).
 
 ### Formula

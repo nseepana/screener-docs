@@ -1,4 +1,4 @@
-# Profit before tax preceding quarter
+# Profit before tax preceding quarter [PBT Prev Qtr]
 Profit before Tax as per preceding quarterly results.
 
 ### Formula

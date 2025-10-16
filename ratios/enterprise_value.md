@@ -1,4 +1,4 @@
-# Enterprise Value
+# Enterprise Value [EV]
 Enterprise Value is Market cap + debt - cash
 
 ### Formula

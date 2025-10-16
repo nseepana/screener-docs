@@ -1,4 +1,4 @@
-# Asset Turnover Ratio
+# Asset Turnover Ratio [Asset Turnover]
 Annual Sales / Average Total Assets as per balance sheet
 
 ### Formula

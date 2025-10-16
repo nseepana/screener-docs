@@ -1,4 +1,4 @@
-# Return over 7years
+# Return over 7years [7Yrs return]
 Price CAGR over last 7 years. Percentage change compounded annually.
 
 ### Formula

@@ -1,4 +1,4 @@
-# Pledged Percentage
+# Pledged Percentage [Pledged]
 
 
 Pledged Percentage represents the proportion of promoter shares that have been pledged as collateral for loans or other financial obligations. It indicates the financial leverage of promoters and potential risk.

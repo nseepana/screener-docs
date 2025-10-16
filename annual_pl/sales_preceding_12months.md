@@ -1,4 +1,4 @@
-# Sales preceding 12months
+# Sales preceding 12months [Sales Prev 12M]
 Sales during 12 months preceding latest quarter
 
 ### Formula

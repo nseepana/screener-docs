@@ -1,4 +1,4 @@
-# DMA 50 previous day
+# DMA 50 previous day [50 DMA prev.]
 50 days exponential moving average day before yesterday
 
 ### Formula

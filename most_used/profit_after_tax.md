@@ -1,4 +1,4 @@
-# Profit After Tax
+# Profit After Tax [PAT 12M]
 
 
 Profit After Tax (PAT) represents the net profit earned by a company after deducting all expenses, interest, and taxes from total revenue. It's the final profit available to shareholders.

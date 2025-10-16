@@ -1,4 +1,4 @@
-# Cash from investing preceding year
+# Cash from investing preceding year [CF Investing PY]
 Cash flow from investing activities from preceding year's cash-flow.
 
 ### Formula

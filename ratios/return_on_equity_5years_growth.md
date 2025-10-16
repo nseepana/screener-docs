@@ -1,4 +1,4 @@
-# Return on equity 5years growth
+# Return on equity 5years growth [ROE 5Yr Var]
 Compounded ROE growth over last 5 years.
 
 ### Formula

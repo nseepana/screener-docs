@@ -1,4 +1,4 @@
-# Free cash flow preceding year
+# Free cash flow preceding year [FCF Prev Ann]
 Cash Flow from operating activities - Fixed assets purchased + Fixed assets sold in preceding year
 
 ### Formula

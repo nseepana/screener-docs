@@ -1,4 +1,4 @@
-# Profit growth 7Years
+# Profit growth 7Years [Profit Var 7Yrs]
 Compounded profit growth (CAGR) over last 7 years. Profit is profit after tax excluding exceptional items.
 
 ### Formula

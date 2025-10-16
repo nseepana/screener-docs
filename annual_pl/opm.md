@@ -1,4 +1,4 @@
-# OPM
+# OPM [OPM]
 Operating profit margin based on last 4 quarters.
 
 ### Formula

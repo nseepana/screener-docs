@@ -1,4 +1,4 @@
-# PEG Ratio
+# PEG Ratio [PEG]
 
 
 Price/Earnings to Growth (PEG) ratio compares a company's P/E ratio to its earnings growth rate. It helps identify whether a stock is overvalued or undervalued relative to its growth prospects.

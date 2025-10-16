@@ -1,4 +1,4 @@
-# NPM latest quarter
+# NPM latest quarter [NPM Qtr]
 Net profit margin as per latest quarterly results.
 
 ### Formula

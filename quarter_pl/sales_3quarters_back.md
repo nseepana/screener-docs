@@ -1,4 +1,4 @@
-# Sales 3quarters back
+# Sales 3quarters back [Sales 3Qtr Bk]
 Sales 3 quarters back (corresponding previous quarter of upcoming quarter).
 
 ### Formula

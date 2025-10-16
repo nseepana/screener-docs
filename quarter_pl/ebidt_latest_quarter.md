@@ -1,4 +1,4 @@
-# EBIDT latest quarter
+# EBIDT latest quarter [EBIDT Qtr]
 Earnings before Interest, Depreciation & Tax as per latest quarterly results.
 
 ### Formula

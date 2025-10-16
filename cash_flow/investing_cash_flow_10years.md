@@ -1,4 +1,4 @@
-# Investing cash flow 10years
+# Investing cash flow 10years [CF Inv 10Yrs]
 Cash from investing activity over last 10 years.
 
 ### Formula

@@ -1,4 +1,4 @@
-# Sales growth 10years median
+# Sales growth 10years median [Med Sales Gwth 10Yrs]
 Median sales growth growth of last 10 years
 
 ### Formula

@@ -1,4 +1,4 @@
-# EPS growth 7Years
+# EPS growth 7Years [EPS Var 7Yrs]
 Compounded Growth in EPS (CAGR) over last 7 years.
 
 ### Formula

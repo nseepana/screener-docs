@@ -1,4 +1,4 @@
-# Operating profit growth
+# Operating profit growth [Opert Prft Gwth]
 TTM Operating profit growth: change over last 4 quarters vs preceding 4 quarters
 
 ### Formula

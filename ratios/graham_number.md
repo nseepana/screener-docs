@@ -1,4 +1,4 @@
-# Graham Number
+# Graham Number [Graham's Number]
 Graham number is the formula Ben Graham used to calculate the maximum price one should pay for a stock: square root of (22.5 * EPS * BV)
 
 ### Formula

@@ -1,4 +1,4 @@
-# NPM preceding year quarter
+# NPM preceding year quarter [NPM PY Qtr]
 Net profit margin as per previous year's corresponding latest quarter.
 
 ### Formula

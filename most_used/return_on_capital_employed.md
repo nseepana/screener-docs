@@ -1,4 +1,4 @@
-# Return on Capital Employed
+# Return on Capital Employed [ROCE]
 
 
 Return on Capital Employed (ROCE) measures the efficiency of capital utilization by comparing earnings before interest and taxes to the total capital employed. It indicates how well a company generates profits from its capital.

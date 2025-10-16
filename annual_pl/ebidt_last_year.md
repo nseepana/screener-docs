@@ -1,4 +1,4 @@
-# EBIDT last year
+# EBIDT last year [EBIDT Ann]
 Earnings before Interest, Depreciation & Tax last year.
 
 ### Formula

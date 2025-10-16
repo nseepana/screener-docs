@@ -1,4 +1,4 @@
-# Number of Shareholders
+# Number of Shareholders [No. of Share Holders]
 Number of shareholders as per latest filing
 
 ### Formula

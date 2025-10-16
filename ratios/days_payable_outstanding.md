@@ -1,4 +1,4 @@
-# Days Payable Outstanding
+# Days Payable Outstanding [Days Payable]
 Annual Trade Payables / Annual Material cost * 365
 
 ### Formula

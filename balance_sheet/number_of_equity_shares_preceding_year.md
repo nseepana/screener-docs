@@ -1,4 +1,4 @@
-# Number of equity shares preceding year
+# Number of equity shares preceding year [No. Eq. Shares PY]
 Number of equity shares at the end of preceding financial year.
 
 ### Formula

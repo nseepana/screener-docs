@@ -1,4 +1,4 @@
-# Total Assets
+# Total Assets [Assets]
 Total of Assets as per balance sheet
 
 ### Formula

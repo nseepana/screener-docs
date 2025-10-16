@@ -1,4 +1,4 @@
-# NPM last year
+# NPM last year [NPM Ann]
 Net profit margin last year.
 
 ### Formula

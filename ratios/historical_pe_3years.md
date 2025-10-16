@@ -1,4 +1,4 @@
-# Historical PE 3Years
+# Historical PE 3Years [3Yrs PE]
 Median price to earning ratio during last 3 years.
 
 ### Formula

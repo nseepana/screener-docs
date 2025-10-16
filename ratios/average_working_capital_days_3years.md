@@ -1,4 +1,4 @@
-# Average Working Capital Days 3years
+# Average Working Capital Days 3years [WC Days 3yrs]
 Average Working Capital days over last 3 years
 
 ### Formula

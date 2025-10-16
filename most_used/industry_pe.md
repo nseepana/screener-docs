@@ -1,4 +1,4 @@
-# Industry PE
+# Industry PE [Ind PE]
 
 
 Industry PE represents the average price-to-earnings ratio of companies within the same industry sector. It provides a benchmark for comparing individual company valuations against industry standards.

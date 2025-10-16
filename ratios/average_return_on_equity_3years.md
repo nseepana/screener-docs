@@ -1,4 +1,4 @@
-# Average return on equity 3Years
+# Average return on equity 3Years [ROE 3Yr]
 Weighted average of return on equity over last 3 years.
 
 ### Formula

@@ -1,4 +1,4 @@
-# Material cost last year
+# Material cost last year [Raw Material]
 Raw Material cost as a percentage of revenue last year
 
 ### Formula

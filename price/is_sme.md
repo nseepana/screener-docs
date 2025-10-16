@@ -1,4 +1,4 @@
-# Is SME
+# Is SME [Is SME]
 1 if it is a SME company
 
 ### Formula

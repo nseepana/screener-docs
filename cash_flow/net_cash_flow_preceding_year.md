@@ -1,4 +1,4 @@
-# Net cash flow preceding year
+# Net cash flow preceding year [Net CF PY]
 Net cash-flow from preceding year's cash-flow.
 
 ### Formula

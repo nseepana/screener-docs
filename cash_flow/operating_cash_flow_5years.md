@@ -1,4 +1,4 @@
-# Operating cash flow 5years
+# Operating cash flow 5years [CF Opr 5Yrs]
 Sum of cash from operations over last 5 years.
 
 ### Formula

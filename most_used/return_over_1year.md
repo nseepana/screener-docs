@@ -1,4 +1,4 @@
-# Return over 1year
+# Return over 1year [1Yr return]
 Price change over last year in percent
 
 ### Formula

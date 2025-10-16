@@ -1,4 +1,4 @@
-# Sales Growth
+# Sales Growth [Sales growth]
 
 
 Sales Growth measures the percentage increase in a company's revenue over a specific period. TTM (Trailing Twelve Months) sales growth compares the last 4 quarters with the preceding 4 quarters.

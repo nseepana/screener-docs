@@ -1,4 +1,4 @@
-# Tax
+# Tax [Tax 12M]
 Tax expenditure during last 4 quarters
 
 ### Formula

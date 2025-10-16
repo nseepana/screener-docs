@@ -1,4 +1,4 @@
-# Balance sheet total
+# Balance sheet total [BS Total]
 Balance Sheet total from latest balance sheet.
 
 ### Formula

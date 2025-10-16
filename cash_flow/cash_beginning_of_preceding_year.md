@@ -1,4 +1,4 @@
-# Cash beginning of preceding year
+# Cash beginning of preceding year [Cash Beginning PY]
 Cash at beginning of the year from preceding year's cash-flow.
 
 ### Formula

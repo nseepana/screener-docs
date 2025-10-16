@@ -1,4 +1,4 @@
-# Average dividend payout 3years
+# Average dividend payout 3years [Avg Div Payout 3Yrs]
 Weighted average dividend payout from net profits over last 3 years.
 
 ### Formula

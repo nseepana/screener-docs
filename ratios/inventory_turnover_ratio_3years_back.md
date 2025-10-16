@@ -1,4 +1,4 @@
-# Inventory turnover ratio 3Years back
+# Inventory turnover ratio 3Years back [Inven TO 3Yr]
 Inventory turnover ratio 3 years back.
 
 ### Formula

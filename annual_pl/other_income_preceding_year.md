@@ -1,4 +1,4 @@
-# Other income preceding year
+# Other income preceding year [Other Inc Prev Ann]
 Other Income as per preceding annual results.
 
 ### Formula

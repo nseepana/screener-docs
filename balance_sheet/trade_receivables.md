@@ -1,4 +1,4 @@
-# Trade receivables
+# Trade receivables [Trade receivables]
 Trade Receivables (sundry debtors) as per latest annual report.
 
 ### Formula

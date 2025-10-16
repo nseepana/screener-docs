@@ -1,4 +1,4 @@
-# Expected quarterly EPS
+# Expected quarterly EPS [Exp Qtr EPS]
 Expected EPS for upcoming quarter based on expected sales.
 
 ### Formula

@@ -1,4 +1,4 @@
-# Volume 1week average
+# Volume 1week average [Avg Vol 1Wk]
 Average quantity traded over last 7 days across all exchanges.
 
 ### Formula

@@ -1,4 +1,4 @@
-# Net profit 2quarters back
+# Net profit 2quarters back [NP 2Qtr Bk]
 Net profit 2 quarters back (preceding-preceding quarter).
 
 ### Formula

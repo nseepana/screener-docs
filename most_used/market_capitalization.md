@@ -1,4 +1,4 @@
-# Market Capitalization
+# Market Capitalization [Mar Cap]
 
 
 Market Capitalization represents the total market value of a company's outstanding shares at the current market price. It's calculated by multiplying the current stock price by the total number of outstanding shares.

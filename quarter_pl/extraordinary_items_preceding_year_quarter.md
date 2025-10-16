@@ -1,4 +1,4 @@
-# Extraordinary items preceding year quarter
+# Extraordinary items preceding year quarter [Extra Ord Item PY Qt]
 Extraordinary items as per previous year's corresponding latest quarter.
 
 ### Formula

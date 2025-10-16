@@ -1,4 +1,4 @@
-# Last result date
+# Last result date [Qtr Date]
 Date of the latest result available in YYYYMM format
 
 ### Formula

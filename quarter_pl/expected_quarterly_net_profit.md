@@ -1,4 +1,4 @@
-# Expected quarterly net profit
+# Expected quarterly net profit [Exp Qtr NP]
 Expected net profit for the upcoming quarter based on expected sales.
 
 ### Formula

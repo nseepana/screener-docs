@@ -1,4 +1,4 @@
-# Average return on equity 10Years
+# Average return on equity 10Years [ROE 10Yr]
 Weighted average of return on capital employed over last 10 years.
 
 ### Formula

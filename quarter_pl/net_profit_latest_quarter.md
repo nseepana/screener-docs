@@ -1,4 +1,4 @@
-# Net Profit latest quarter
+# Net Profit latest quarter [NP Qtr]
 Net Profit as per latest quarterly results.
 
 ### Formula

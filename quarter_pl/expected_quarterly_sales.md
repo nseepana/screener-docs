@@ -1,4 +1,4 @@
-# Expected quarterly sales
+# Expected quarterly sales [Exp Qtr Sales]
 Expected sales for the upcoming quarter based on trend of last 8 quarters.
 
 ### Formula

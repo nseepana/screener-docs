@@ -1,4 +1,4 @@
-# EPS
+# EPS [EPS 12M]
 Earning per share during last 4 quarters.
 
 ### Formula

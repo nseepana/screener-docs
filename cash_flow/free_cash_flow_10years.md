@@ -1,4 +1,4 @@
-# Free cash flow 10years
+# Free cash flow 10years [Free Cash Flow 10Yrs]
 Sum of (Cash Flow from operating activities - Fixed assets purchased + Fixed assets sold) over last 10 years
 
 ### Formula

@@ -1,4 +1,4 @@
-# Piotroski score
+# Piotroski score [Piotroski Scr]
 Companies with Piotroski score of 9 which reflects nine criteria used to determine the strength of a firm's financial position. It is based on 3 most important criteria: Profitability, Leverage and operating efficiency.
 
 ### Formula

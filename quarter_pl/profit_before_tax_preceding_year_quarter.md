@@ -1,4 +1,4 @@
-# Profit before tax preceding year quarter
+# Profit before tax preceding year quarter [PBT PY Qtr]
 Profit before Tax as per previous year's corresponding latest quarter.
 
 ### Formula

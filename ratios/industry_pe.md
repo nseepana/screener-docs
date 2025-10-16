@@ -1,4 +1,4 @@
-# Industry PE
+# Industry PE [Ind PE]
 Industrial price to earning
 
 ### Formula

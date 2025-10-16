@@ -1,4 +1,4 @@
-# Sales preceding year
+# Sales preceding year [Sales Prev Ann]
 Sales as per preceding annual results.
 
 ### Formula

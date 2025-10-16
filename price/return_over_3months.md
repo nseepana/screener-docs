@@ -1,4 +1,4 @@
-# Return over 3months
+# Return over 3months [3mth return]
 Price change over last 3 months in percent
 
 ### Formula

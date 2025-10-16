@@ -1,4 +1,4 @@
-# Other income preceding quarter
+# Other income preceding quarter [Other Inc Prev Qtr]
 Other Income as per preceding quarterly results.
 
 ### Formula

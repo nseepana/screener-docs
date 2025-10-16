@@ -1,4 +1,4 @@
-# Average return on equity 5Years
+# Average return on equity 5Years [ROE 5Yr]
 Weighted average of return on equity over last 5 years.
 
 ### Formula

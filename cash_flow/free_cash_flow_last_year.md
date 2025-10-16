@@ -1,4 +1,4 @@
-# Free cash flow last year
+# Free cash flow last year [Free Cash Flow]
 Cash Flow from operating activities - Fixed assets purchased + Fixed assets sold
 
 ### Formula

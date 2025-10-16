@@ -1,4 +1,4 @@
-# Inventory turnover ratio
+# Inventory turnover ratio [Inv TO]
 Inventory turnover ratio for last year.
 
 ### Formula

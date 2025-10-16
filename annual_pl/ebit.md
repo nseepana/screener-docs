@@ -1,4 +1,4 @@
-# EBIT
+# EBIT [EBIT 12M]
 Total earnings before interest and taxes during last 12 months.
 
 ### Formula

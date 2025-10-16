@@ -1,4 +1,4 @@
-# OPM preceding quarter
+# OPM preceding quarter [OPM Prev Qtr]
 Operating profit margin as per preceding quarterly results.
 
 ### Formula

@@ -1,4 +1,4 @@
-# Volume
+# Volume [Vol 1d]
 Quantity traded on last trade date across all exchanges.
 
 ### Formula

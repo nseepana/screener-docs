@@ -1,4 +1,4 @@
-# Equity Capital preceding quarter
+# Equity Capital preceding quarter [Eq Cap Prev Qtr]
 Equity Capital as per preceding quarterly results.
 
 ### Formula

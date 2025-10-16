@@ -1,4 +1,4 @@
-# EV/EBITDA
+# EV/EBITDA [EV / EBITDA]
 
 
 EV/EBITDA ratio compares a company's enterprise value to its earnings before interest, taxes, depreciation, and amortization. It's a popular valuation metric that accounts for capital structure and operating performance.

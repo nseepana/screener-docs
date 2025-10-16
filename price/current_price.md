@@ -1,4 +1,4 @@
-# Current price
+# Current price [CMP]
 Last closing price of the stock.
 
 ### Formula

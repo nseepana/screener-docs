@@ -1,4 +1,4 @@
-# Dividend preceding year
+# Dividend preceding year [Dividend Prev Ann]
 Dividend paid as per preceding annual results.
 
 ### Formula

@@ -1,4 +1,4 @@
-# Secured loan
+# Secured loan [Secured Loan]
 Secured loans from latest balance sheet.
 
 ### Formula

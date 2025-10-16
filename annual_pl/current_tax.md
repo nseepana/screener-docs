@@ -1,4 +1,4 @@
-# Current Tax
+# Current Tax [Current Tax 12M]
 Tax (without deferred tax) during last 4 quarters
 
 ### Formula

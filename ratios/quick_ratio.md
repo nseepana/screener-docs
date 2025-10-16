@@ -1,4 +1,4 @@
-# Quick ratio
+# Quick ratio [Quick Rat]
 Quick ratio last year.
 
 ### Formula

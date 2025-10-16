@@ -1,4 +1,4 @@
-# Other income
+# Other income [Other Income]
 Other income from last 4 quarterly results.
 
 ### Formula

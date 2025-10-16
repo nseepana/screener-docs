@@ -1,4 +1,4 @@
-# Industry PBV
+# Industry PBV [Ind PBV]
 Industrial Price to Book Value
 
 ### Formula

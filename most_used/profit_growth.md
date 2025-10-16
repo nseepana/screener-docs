@@ -1,4 +1,4 @@
-# Profit Growth
+# Profit Growth [Profit growth]
 
 
 Profit Growth measures the percentage increase in a company's net profit over a specific period. TTM (Trailing Twelve Months) profit growth compares the last 4 quarters with the preceding 4 quarters.

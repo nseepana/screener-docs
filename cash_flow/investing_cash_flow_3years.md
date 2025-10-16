@@ -1,4 +1,4 @@
-# Investing cash flow 3years
+# Investing cash flow 3years [CF Inv 3Yrs]
 Cash from investing activity over last 3 years.
 
 ### Formula

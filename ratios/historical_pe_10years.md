@@ -1,4 +1,4 @@
-# Historical PE 10Years
+# Historical PE 10Years [10Yrs PE]
 Median price to earning ratio of last 10 years.
 
 ### Formula

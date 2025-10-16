@@ -1,4 +1,4 @@
-# Cash from operations last year
+# Cash from operations last year [CF Operations]
 Cash flow from operating activities as per last annual result
 
 ### Formula

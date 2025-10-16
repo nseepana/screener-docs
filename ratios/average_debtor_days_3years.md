@@ -1,4 +1,4 @@
-# Average debtor days 3years
+# Average debtor days 3years [Debtor days 3yrs]
 Average Debtor days over last 3 years
 
 ### Formula

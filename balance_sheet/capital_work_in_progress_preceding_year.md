@@ -1,4 +1,4 @@
-# Capital work in progress preceding year
+# Capital work in progress preceding year [CWIP PY]
 Capital work in progress (CWIP) from preceding year's balance sheet.
 
 ### Formula

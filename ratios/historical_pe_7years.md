@@ -1,4 +1,4 @@
-# Historical PE 7Years
+# Historical PE 7Years [7Yrs PE]
 Median price to earning ratio during last 7 years.
 
 ### Formula

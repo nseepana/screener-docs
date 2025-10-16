@@ -1,4 +1,4 @@
-# Exports percentage
+# Exports percentage [Export]
 Exports percentage of total sales last year.
 
 ### Formula

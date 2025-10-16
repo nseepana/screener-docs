@@ -1,4 +1,4 @@
-# Net Profit preceding year quarter
+# Net Profit preceding year quarter [NP PY Qtr]
 Net Profit as per previous year's corresponding latest quarter.
 
 ### Formula

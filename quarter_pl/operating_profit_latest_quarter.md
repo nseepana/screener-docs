@@ -1,4 +1,4 @@
-# Operating profit latest quarter
+# Operating profit latest quarter [OP Qtr]
 Operating Profit as per latest quarterly results.
 
 ### Formula

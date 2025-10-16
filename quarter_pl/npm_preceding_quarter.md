@@ -1,4 +1,4 @@
-# NPM preceding quarter
+# NPM preceding quarter [NPM Prev Qtr]
 Net profit margin as per preceding quarterly results.
 
 ### Formula

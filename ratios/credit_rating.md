@@ -1,4 +1,4 @@
-# Credit rating
+# Credit rating [Credit Rate]
 Credit rating of the company's loans.
 
 ### Formula

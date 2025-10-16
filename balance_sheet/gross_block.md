@@ -1,4 +1,4 @@
-# Gross block
+# Gross block [Gross Block]
 Gross block from latest balance sheet.
 
 ### Formula
