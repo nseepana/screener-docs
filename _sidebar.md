@@ -353,7 +353,7 @@
 * [Working Capital Days](ratios/working_capital_days.md)
 
 ## Price
-* [Current price](price/current_price.md)
+* [Current price](most_used/current_price.md)
 * [DMA 200](price/dma_200.md)
 * [DMA 200 previous day](price/dma_200_previous_day.md)
 * [DMA 50](price/dma_50.md)
