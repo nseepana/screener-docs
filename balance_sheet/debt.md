@@ -53,6 +53,13 @@ If a company reports:
 - Debt Service Coverage
 - Net Debt
 
+## Best Practices
+- Compare with equity to assess leverage
+- Analyze debt structure and maturity
+- Monitor debt service capacity
+- Consider industry benchmarks
+- Evaluate debt reduction strategies
+
 ## Key Terms
 - **Total Debt**: Sum of all borrowings
 - **Financial Leverage**: Use of debt to finance operations
